@@ -27,7 +27,7 @@
 
 </Property>
 	<Item Name="Parent Libraries" Type="Parent Libraries">
-		<Item Name="ClassUtilities.lvlib:ClassByRef.lvclass" Type="Parent" URL="../../ClassUtilities/src/ClassByRef/ClassByRef.lvclass"/>
+		<Item Name="ClassUtilities.lvlib:ClassByRef.lvclass" Type="Parent" URL="../../../ClassUtilities/src/ClassByRef/ClassByRef.lvclass"/>
 	</Item>
 	<Item Name="VIActivation.ctl" Type="Class Private Data" URL="VIActivation.ctl">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
@@ -105,13 +105,13 @@
 				<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
 			</Item>
 			<Item Name="SetVIDesactivationEvent.vi" Type="VI" URL="../SetVIDesactivationEvent.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)C!!!!$Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%2!=!!?!!!J%F:*17.U;8:B&gt;'FP&lt;CZM&gt;GRJ9B2735&amp;D&gt;'FW982J&lt;WYO&lt;(:D&lt;'&amp;T=Q!26EEA17.U;8:B&gt;'FP&lt;C"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!51(!!#!!!!!%!!!:"=("3:79!!""!-0````]'6EF/97VF!!!01!-!#&amp;:*6WFO:'^X!!!71(!!#!!!!!%!!!B735&amp;Q=&amp;*F:A!!:Q$R!!!!!!!!!!-36EF"9X2J&gt;G&amp;U;7^O,GRW&lt;'FC&amp;&amp;:*17.U;8:B&gt;'FP&lt;CZM&gt;G.M98.T&amp;F:*17.U;8:B&gt;'FP&lt;E6W:7ZU=SZD&gt;'Q!)%"1!!1!"Q!)!!E!#AR735&amp;D&gt;'FW982J&lt;WY!!#"!=!!:!!%!#R27352F=W&amp;D&gt;'FW982J&lt;WZ&amp;&gt;G6O&gt;!!!2%"Q!"Y!!#E36EF"9X2J&gt;G&amp;U;7^O,GRW&lt;'FC&amp;&amp;:*17.U;8:B&gt;'FP&lt;CZM&gt;G.M98.T!""733""9X2J&gt;G&amp;U;7^O)'FO!!"B!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!Q!$1)!!(A!!!U)!!!!!!!!!!!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!)!!!!%!!!$1!!!!Q!!!!!!!!!!!!!!1!/!!!!!!</Property>
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)C!!!!$Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%2!=!!?!!!J%F:*17.U;8:B&gt;'FP&lt;CZM&gt;GRJ9B2735&amp;D&gt;'FW982J&lt;WYO&lt;(:D&lt;'&amp;T=Q!26EEA17.U;8:B&gt;'FP&lt;C"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!51(!!#!!!!!%!!!:"=("3:79!!""!-0````]'6EF/97VF!!!01!-!#&amp;:*6WFO:'^X!!!71(!!#!!!!!%!!!B735&amp;Q=&amp;*F:A!!:Q$R!!!!!!!!!!-36EF"9X2J&gt;G&amp;U;7^O,GRW&lt;'FC&amp;&amp;:*17.U;8:B&gt;'FP&lt;CZM&gt;G.M98.T&amp;F:*17.U;8:B&gt;'FP&lt;E6W:7ZU=SZD&gt;'Q!)%"1!!1!"Q!)!!E!#AR735&amp;D&gt;'FW982J&lt;WY!!#"!=!!:!!%!#R27352F=W&amp;D&gt;'FW982J&lt;WZ&amp;&gt;G6O&gt;!!!2%"Q!"Y!!#E36EF"9X2J&gt;G&amp;U;7^O,GRW&lt;'FC&amp;&amp;:*17.U;8:B&gt;'FP&lt;CZM&gt;G.M98.T!""733""9X2J&gt;G&amp;U;7^O)'FO!!"B!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!Q!$1)!!(A!!!U)!!!!!!!!!!!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!!)!!!!%!!!$1!!!!Q!!!!!!!!!!!!!!1!/!!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 				<Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1082139136</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1117782528</Property>
 			</Item>
 		</Item>
 		<Item Name="CreateCloseEvent.vi" Type="VI" URL="../CreateCloseEvent.vi">
